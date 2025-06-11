@@ -1,0 +1,795 @@
+Exporter,Importer,Tank Type,Order Quantity,Order Year,Delivery Quantity,Delivery Year,Total Contract Year
+Austria,Egypt,M-60А3ОЕ «Patton-2»,108,2001,108,,2002
+Angola,Cote d'Ivoire,Т-55,2,2002,2,,2002
+Belarus,Azerbaijan,Т-72,60,2005,19,,2005
+Belarus,Azerbaijan,Т-72,62,2011,62,,2012
+Belarus,Yemen,Т-72Б,27,2000,27,,2000
+Belarus,Yemen,Т-80БВ,80,2009,66,,2010
+Belarus,Morocco,Т-72Б/БК,100,1999,30,,1999
+Belarus,Sudan,Т-55М,60,1999,40,,1999
+Belarus,Uganda,Т-55М,10,2000,10,,2000
+Belarus,Uganda,Т-55М,23,2008,23,,2009
+Belgium,Bahrain,M13,45,2015,45,,2015
+Belgium,Germany,Leopard-1А1,33,2022,33,,2023
+Belgium,UAE,OF-40 Мк.2,36,2005,36,,2010
+Bulgaria,Georgia,Т-72,5,2012,5,,2013
+Bulgaria,Iraq,Т-72,0,2015,0,,2015
+Bulgaria,Iraq,Т-72M1,10,2021,10,,2022
+Bulgaria,Cambodia,Т-55,50,2009,50,,2010
+Bulgaria,Uganda,Т-55М,31,2021,31,,2022
+Bulgaria,Eritrea,Т-55А,120,2004,120,,2005
+Brazil,Uruguay,M-41C,25,2018,25,,2018
+United Kingdom,Oman,Challenger-2,20,1997,20,,2000
+United Kingdom,Ukraine,Challenger-2,14,2023,14,,2023
+Hungary,Iraq,Т-72,77,2004,77,,2005
+Hungary,Czech Republic,Т-55АМ,90,2003,90,,2004
+Germany,Belgium,Leopard-1,1,2001,1,,2001
+Germany,Greece,Leopard-2А4,183,2005,18,,2005
+Germany,Denmark,Leopard-2A5,8,2009,8,,2010
+Germany,Canada,Leopard-2A6M,20,2007,20,,2007
+Germany,Netherlands,Leopard-2A6MA2,18,2015,18,,2018
+Germany,Poland,Leopard-2А4/А5,119,2013,91,,2014
+Germany,Slovakia,Leopard-2A4,15,2022,1,,2022
+Germany,Ukraine,Leopard-1А5,88,2023,10,,2023
+Germany,Ukraine,Leopard-2А6,18,2023,18,,2023
+Germany,Finland,Leopard-2A4,124,2002,124,,2003
+Germany,Finland,Leopard-2A4,15,2009,15,,2009
+Germany,Chile,Leopard-1A5,56,2008,56,,2010
+Germany,Chile,Leopard-2A4,140,2006,22,,2007
+Denmark,Germany,Leopard-1A5,99,2009,99,,2010
+Denmark,Ukraine,Leopard-1А5,50,2023,30,,2023
+Israel,Azerbaijan,Т-72,0,2010,0,,2011
+Israel,Vietnam,Т-54Б,31,2017,31,,2021
+Israel,India,Т-72М1,300,2002,300,,2003
+Israel,Kazakhstan,Т-72,0,2014,0,,2015
+Israel,Unknown,?,60,2007,60,,2008
+Israel,Unknown,?,0,2019,0,,2020
+Israel,Unknown,?,0,2022,0,,2023
+Indonesia,Cambodia,Т-55/54/Type-59,0,2015,0,,2016
+Spain,Ukraine,Leopard-2А4Е,10,2023,10,,2023
+Spain,Ukraine,Leopard-2А4Е,19,2024,19,,2024
+Yemen,Ethiopia,Т-72,60,2003,60,,2003
+Kazakhstan,Belarus,Т-72Б,53,2000,53,,2000
+Canada,Ukraine,Leopard-2А4,8,2023,8,,2023
+China,Morocco,MBT-2000 (VT2),54,2009,54,,2010
+China,Myanmar,MBT-2000 (VT1A),0,2009,0,,2010
+China,Nigeria,MBT-3000 (VT4),30,2019,30,,2020
+China,Thailand,MBT-3000 (VT4),28,2016,28,,2017
+China,Thailand,MBT-3000 (VT4),10,2017,10,,2018
+China,Thailand,MBT-3000 (VT4),14,2018,14,,2020
+China,Thailand,MBT-3000 (VT4),10,2019,10,,2023
+China,Tanzania,Type-59,24,2009,24,,2011
+China,Tanzania,Type-96 (VT2),10,2020,10,,2021
+China,Uganda,Type-85IIM,31,2015,31,,2016
+China,Chad,Type-59G,30,2012,30,,2013
+Laos,Russia,Т-34,30,2018,30,,2019
+North Macedonia,Ukraine,Т-72,31,2022,31,,2022
+Morocco,Ukraine,Т-72Б/БК,74,2022,74,,2022
+Netherlands,Jordan,Leopard-1,4,2015,4,,2016
+Netherlands,Canada,Leopard-2A4/A6,100,2007,100,,2008
+Netherlands,Portugal,Leopard-2А6,37,2007,9,,2008
+Netherlands,Ukraine,Leopard-1А5,50,2023,50,,2024
+Netherlands,Ukraine,Leopard-2А4,14,2023,14,,2024
+Norway,Ukraine,Leopard-2А4,8,2023,8,,2023
+UAE,Jordan,Leclerc,80,2020,80,,2022
+Poland,Mauritania,Т-55,16,2002,16,,2002
+Poland,Ukraine,Leopard-2А4,14,2023,14,,2023
+Poland,Ukraine,РТ-91 «Twardy»,60,2023,60,,2023
+Poland,Ukraine,Т-72М1,232,2022,232,,2022
+Portugal,Ukraine,Leopard-2А6,3,2023,3,,2023
+Russia,Azerbaijan,Т-72,62,2006,62,,2007
+Russia,Armenia,Т-90С,1,2014,1,,2016
+Russia,Belarus,Т-72Б,14,2014,4,,2017
+Russia,Belarus,Т-72Б,11,2019,11,,2020
+Russia,Vietnam,Т-90С/СК,64,2016,64,,2018
+Russia,Iraq,Т-90С/СК,73,2016,73,,2018
+Russia,Yemen,Т-72Б,31,1999,31,,2000
+Russia,Cuba,Т-55М,0,2009,0,,2010
+Russia,Laos,Т-72Б1,30,2018,30,,2019
+Russia,Myanmar,Т-90С/СК,30,2020,30,,2021
+Russia,Unknown,Т-72,200,2012,200,,2014
+Russia,Nicaragua,Т-72Б1,50,2015,50,,2016
+Russia,Syria,Т-62,0,2016,0,,2017
+Russia,Syria,Т-90,15,2015,15,,2015
+Russia,Tajikistan,Т-72Б1,0,2017,0,,2017
+Russia,Turkmenistan,Т-90С,10,2009,10,,2011
+Russia,Turkmenistan,Т-90С,30,2011,30,,2014
+Russia,Uganda,Т-*,23,2008,23,,2009
+Russia,Uganda,Т-90С,44,2010,44,,2011
+Russia,South Korea,Т-80У,2,2005,2,,2005
+Serbia,Bulgaria,Т-55,60,2010,60,,2010
+Serbia,Czech Republic,Т-72,70,2011,70,,2012
+Singapore,Indonesia,AMX-13,0,2004,0,,2006
+Slovakia,Azerbaijan,Т-72М1,1,2002,1,,2002
+Slovakia,Bulgaria,Т-72Б,4,2015,4,,2015
+Slovakia,USA,Т-72М,6,2007,6,,2008
+Slovakia,Czech Republic,Т-55,37,2010,37,,2011
+Slovakia,Czech Republic,Т-55,30,2012,30,,2013
+Slovakia,Czech Republic,Т-55,43,2015,43,,2015
+Slovakia,Czech Republic,Т-72,1,2008,1,,2009
+Slovakia,Czech Republic,Т-72М1,2,2010,2,,2011
+Slovakia,Czech Republic,Т-72М1,5,2015,5,,2015
+Slovakia,Czech Republic,Т-72М1,4,2020,4,,2021
+Slovenia,Ukraine,M-55S,28,2022,28,,2022
+USA,Australia,M-1A2 SEPv3 «Abrams»,75,2022,75,,2024
+USA,Egypt,M-60 «Patton-2»,0,2019,0,,2019
+USA,Egypt,M-60A3 «Patton-2»,10,2000,10,,2001
+USA,Jordan,M-60А3 «Patton-2»,100,2002,50,,2004
+USA,Jordan,M-60А3 «Patton-2»,82,2004,82,,2006
+USA,Kuwait,M-1А2 «Abrams»,218,2018,218,,2022
+USA,Saudi Arabia,M-1A2 «Abrams»,58,2006,25,,2012
+USA,Saudi Arabia,M-60A3 «Patton-2»,27,2000,27,,2001
+USA,Ukraine,M-1A1 «Abrams»,31,2023,31,,2023
+Ukraine,Georgia,Т-72,16,2004,16,,2005
+Ukraine,Georgia,Т-72,75,2006,74,,2007
+Ukraine,DRC,Т-55МВ,20,2005,20,,2006
+Ukraine,DRC,Т-55МВ,30,2009,30,,2010
+Ukraine,DRC,Т-64БВ-1,50,2013,25,,2016
+Ukraine,DRC,Т-72АВ,100,2009,100,,2010
+Ukraine,Yemen,Т-72,32,2002,32,,2003
+Ukraine,Kazakhstan,Т-72,10,2011,10,,2011
+Ukraine,China,Т-72,1,2002,1,,2003
+Ukraine,North Macedonia,Т-72А,31,2001,31,,2001
+Ukraine,Myanmar,Т-72С,14,2002,14,,2002
+Ukraine,Nigeria,Т-72М1,23,2014,12,,2014
+Ukraine,USA,Т-72,1,2006,1,,2006
+Ukraine,USA,Т-72,4,2021,4,,2021
+Ukraine,USA,Т-80БВ,1,2009,1,,2010
+Ukraine,USA,Т-80УД,4,2003,4,,2003
+Ukraine,USA,Т-84 «Оплот-Т»,1,2018,1,,2021
+Ukraine,Turkmenistan,Т-72А,10,2010,10,,2011
+Czech Republic,Georgia,Т-55АМ2,29,1998,10,,2000
+Czech Republic,Georgia,Т-72,70,2004,35,,2005
+Czech Republic,Latvia,Т-55АМ2,3,1999,3,,2001
+Czech Republic,Nigeria,Т-72АВ,20,2014,20,,2015
+Czech Republic,Slovakia,Т-55АМ2,1,2000,1,,2001
+Czech Republic,Slovakia,Т-55АМ2,2,2004,2,,2005
+Czech Republic,Slovakia,Т-72,6,2004,6,,2005
+Czech Republic,Slovakia,Т-72M4CZ,1,2003,1,,2003
+Czech Republic,Slovakia,Т-72М1,5,2011,5,,2012
+Czech Republic,Ukraine,Т-72,72,2022,72,,2022
+Czech Republic,Ukraine,Т-72,65,2023,65,,2023
+Switzerland,Germany,Leopard-2,52,2010,38,,2012
+Switzerland,Germany,Leopard-2,28,2018,28,,2018
+Switzerland,Germany,Leopard-2A4,25,2023,25,,2024
+Switzerland,Germany,Leopard-2A6,14,2018,14,,2018
+Switzerland,Canada,Leopard-2A4,12,2011,12,,2012
+Sweden,Ukraine,Leopard-2А5,10,2023,10,,2023
+Austria,Belgium,SK-105 «Kurassier»,112,2012,112,,2013
+Austria,Botswana,SK-105A1 «Kurassier»,20,1997,20,,2000
+Austria,Brazil,SK-105A1 «Kurassier»,17,2000,17,,2000
+Austria,Hungary,SK-105 «Kurassier»,11,2012,11,,2013
+United Kingdom,Ukraine,CVR(T) «Stormer»,101,2022,101,,2023
+Hungary,Slovakia,БМП-1 (BVP-1),7,2007,7,,2008
+Hungary,Czech Republic,БМП-1 (BVP-1),170,2007,170,,2008
+Germany,Greece,Marder-1A3,200,2022,14,,2022
+Germany,Indonesia,Marder-1A3,51,2013,2,,2013
+Germany,Jordan,Marder-1A3,25,2016,16,,2016
+Germany,Jordan,Marder-1A3,25,2017,16,,2018
+Germany,Jordan,Marder-1A3,16,2019,16,,2020
+Germany,Ukraine,KF41 «Lynx»,0,2023,0,,2024
+Germany,Ukraine,Marder-1A3,40,2022,40,,2023
+Germany,Ukraine,Marder-1A3,40,2023,40,,2024
+Germany,Ukraine,Marder-1A3,20,2024,20,,2024
+Germany,Ukraine,Marder-1A3,40,2024,40,,2024
+Germany,Chile,Marder-1A3,170,2007,45,,2008
+Germany,Sweden,БМП-1,350,1994,6,,1997
+Greece,Egypt,БМП-1,101,2019,101,,2019
+Greece,Iraq,БМП-1,100,2005,36,,2005
+Greece,Ukraine,БМП-1,20,2022,20,,2023
+Israel,Azerbaijan,БМП-2,0,2010,0,,2011
+Israel,Ghana,Sentinel,8,2021,8,,2023
+Israel,Unknown,?,0,2013,0,,2014
+Israel,Slovakia,БМП-1,18,2016,9,,2016
+Jordan,Nigeria,FV-107 «Scimitar»,6,2022,6,,2022
+Spain,United Kingdom,ASCOD-2,589,2014,23,,2020
+Kazakhstan,Slovakia,БМП-1,364,2019,50,,2020
+Kazakhstan,Slovakia,БМП-2,144,2019,100,,2020
+Canada,Australia,Piranha-3 (ASLAV-25),150,1998,64,,2003
+Canada,Colombia,Piranha-3 (LAV III),24,2012,24,,2014
+Canada,Colombia,Piranha-3 (LAV III),22,2013,22,,2014
+Canada,Colombia,Piranha-3 (LAV III) DVH,55,2022,20,,2024
+Canada,New Zealand,Piranha-3 (LAV-25),103,2001,72,,2003
+Canada,Saudi Arabia,Piranha-3 (LAV 700 8х8),916,2014,5,,2014
+Canada,Saudi Arabia,Piranha-3 (LAV-25),216,2004,216,,2005
+Canada,Saudi Arabia,Piranha-3 (LAV-90),130,2000,2,,2000
+Canada,Saudi Arabia,Piranha-3 (LAV-90),6,2004,6,,2005
+Canada,Singapore,Piranha-3 (LAV III),9,2013,9,,2014
+Canada,USA,Piranha-3 (LAV-25),32,1999,32,,2000
+Canada,USA,Piranha-3 (LAV-25),1837,2000,282,,2003
+China,Venezuela,ZBD-2000 (VN18/16),100,2012,50,,2014
+China,Cameroon,Type-07P,11,2012,11,,2013
+China,Mali,VN2C,7,2021,7,,2021
+Netherlands,Egypt,YPR-765,431,2005,214,,2006
+Netherlands,Jordan,YPR-765,503,2010,105,,2011
+Netherlands,Jordan,YPR-765,53,2020,53,,2023
+Netherlands,Chile,YPR-765,18,2007,18,,2008
+Netherlands,Estonia,CV-9035 Mk.3 NL,44,2014,12,,2016
+New Zealand,Chile,Piranha-3 (LAV-25),22,2022,10,,2022
+Norway,Estonia,CV-90,35,2016,15,,2016
+Poland,Ukraine,БМП-1,142,2022,142,,2022
+Poland,Czech Republic,БМП-1 (BWP-1),26,2013,15,,2014
+Russia,Azerbaijan,БМП-3,118,2011,10,,2013
+Russia,Algeria,БМП-2,400,2005,100,,2007
+Russia,Algeria,БМП-2,360,2013,180,,2014
+Russia,Algeria,БМПТ-72,300,2016,150,,2020
+Russia,Armenia,БМП-2,50,2012,50,,2013
+Russia,Venezuela,БМП-3М,114,2010,16,,2011
+Russia,India,БМП-2К,123,2006,50,,2007
+Russia,India,БМП-2К,149,2015,74,,2016
+Russia,India,БМП-2К,156,2018,75,,2018
+Russia,India,БМП-2К,156,2020,156,,2021
+Russia,Indonesia,БМП-3Ф,17,2008,17,,2010
+Russia,Indonesia,БМП-3Ф,37,2012,37,,2013
+Russia,Iraq,БМП-3,500,2015,21,,2019
+Russia,Yemen,БМП-1К,1,2000,1,,2000
+Russia,Yemen,БМП-2,188,2003,128,,2004
+Russia,Kazakhstan,БМПТ «Терминатор»,4,2011,3,,2011
+Russia,Kuwait,БМП-3,70,2009,25,,2010
+Russia,Kuwait,БМП-3М/К,70,2012,33,,2015
+Russia,Libya,БМП-3,7,2009,7,,2013
+Russia,UAE,БМП-3,238,1994,25,,1996
+Russia,UAE,БМП-3,135,2011,40,,2014
+Russia,Tajikistan,БМП-2М,0,2017,0,,2017
+Russia,Tajikistan,БМП-2М,17,2021,17,,2021
+Russia,Sri Lanka,БМП-2,36,2001,36,,2001
+Russia,Equatorial Guinea,БМП-3,20,2015,20,,2016
+Russia,South Korea,БМП-3,37,2003,17,,2004
+Slovakia,Bulgaria,БМП-1,13,2016,6,,2016
+Slovakia,Egypt,БМП-1,32,2015,9,,2015
+Slovakia,Indonesia,БМП-2 (BVP-2),11,1999,11,,2000
+Slovakia,Cambodia,БМП-1 (BVP-1),8,2011,8,,2012
+Slovakia,USA,БМП-2,4,2015,4,,2016
+Slovakia,Ukraine,БМП-1 (BVP-1 ),30,2022,30,,2022
+Slovakia,Czech Republic,БМП-1 (BVP-1),27,2008,27,,2009
+Slovakia,Czech Republic,БМП-1 (BVP-1),5,2010,5,,2011
+Slovakia,Czech Republic,БМП-1 (BVP-1),16,2013,5,,2014
+Slovakia,Czech Republic,БМП-1 (BVP-1),50,2016,25,,2017
+Slovakia,Czech Republic,БМП-2 (BVP-2),1,2006,1,,2006
+Slovakia,Czech Republic,БМП-2 (BVP-2),74,2020,74,,2021
+Slovenia,Ukraine,М-80А,35,2022,35,,2022
+USA,Kuwait,MCV-80 «Desert Warrior»,254,2009,127,,2011
+USA,Lebanon,M2A2 «Bradley»,32,2016,24,,2017
+USA,Malaysia,AIFV,136,2001,80,,2002
+USA,Turkey,AIFV,591,2000,27,,2000
+USA,Ukraine,M2A2 ODS «Bradley»,50,2022,50,,2023
+USA,Ukraine,M2A2 ODS «Bradley»,4,2023,4,,2023
+USA,Ukraine,M2A2 ODS «Bradley»,59,2023,59,,2023
+USA,Ukraine,M2A2 ODS «Bradley»,62,2023,62,,2023
+USA,Croatia,M2A2 ODS «Bradley»,89,2022,22,,2023
+USA,Chile,AAVP-7A1,12,2012,12,,2014
+Turkey,Malaysia,ACV-300 «Adnan»,211,2000,80,,2002
+Turkey,Malaysia,ACV-300 «Adnan»,48,2008,28,,2010
+Ukraine,Azerbaijan,БМП-1,2,2005,2,,2005
+Ukraine,Georgia,БМП-1У «Шквал»,15,2007,15,,2008
+Ukraine,Georgia,БМП-2,52,2004,40,,2004
+Ukraine,DRC,БМП-1,20,2005,20,,2006
+Ukraine,Iraq,БМП-1,110,2006,110,,2007
+Ukraine,Yemen,БМП-2,100,2002,36,,2003
+Ukraine,Cote d'Ivoire,БМП-2,1,2003,1,,2003
+Ukraine,North Macedonia,БМП-2,11,2001,11,,2001
+Ukraine,Myanmar,МТ-ЛБМШ «Шквал»,10,2006,10,,2007
+Ukraine,Myanmar,МТ-ЛБМШ «Шквал»,16,2008,16,,2009
+Ukraine,Myanmar,МТ-ЛБМШ «Шквал»,9,2017,9,,2018
+Ukraine,Sudan,БМП-1,51,2009,16,,2011
+Ukraine,USA,БМП-2,10,2000,9,,2000
+Ukraine,USA,БМП-2К,3,2010,3,,2011
+Ukraine,USA,БМП-3,1,2007,1,,2008
+Ukraine,Turkmenistan,БМП-1,10,2010,10,,2011
+Ukraine,Uganda,БМП-2,31,2004,19,,2004
+Ukraine,Chad,БМП-1,132,2007,80,,2008
+Finland,Poland,XC-360P «Patria»,687,2003,3,,2004
+Finland,Poland,XC-360P «Patria»,307,2012,70,,2016
+Finland,Poland,XC-360P «Patria»,60,2020,30,,2021
+Finland,Slovakia,AMV-XP «Patria»,76,2022,16,,2024
+Finland,Japan,AMV-XP «Patria»,28,2023,28,,2025
+Finland,Japan,AMV-XP «Patria»,26,2024,26,,2026
+Finland,Japan,AMV-XP «Patria»,28,2024,28,,2027
+Czech Republic,Bulgaria,БМП-1,280,2015,110,,2015
+Czech Republic,Iraq,БМП-1,260,2014,260,,2016
+Czech Republic,Yemen,БМП-1 (BVP-1),15,2009,15,,2010
+Czech Republic,Yemen,БМП-1 (BVP-1),15,2011,10,,2012
+Czech Republic,Libya,БМП-1/БРДМ-2,350,2013,350,,2014
+Czech Republic,Nigeria,БМП-1 (BVP-1),20,2014,8,,2014
+Czech Republic,Nigeria,БМП-1 (BVP-1),99,2019,24,,2020
+Czech Republic,Poland,BWP-1 (БМП-1),35,2013,35,,2013
+Czech Republic,Slovakia,БМП-1 (BVP-1),14,2005,14,,2005
+Czech Republic,Slovakia,БМП-1 (BVP-1),99,2016,85,,2016
+Czech Republic,Slovakia,БМП-1 (BVP-1),38,2019,29,,2020
+Czech Republic,Uganda,БМП-1 (BVP-1),41,2019,31,,2020
+Czech Republic,Ukraine,БМП-1 (BVP-1),60,2022,60,,2022
+Czech Republic,Sweden,БМП-1 (BVP-1),350,1997,6,,1997
+Czech Republic,Equatorial Guinea,БМП-1 (BVP-1),20,2006,20,,2007
+Switzerland,Canada,Piranha-3 (LAV-25),240,1997,20,,1998
+Switzerland,Canada,Piranha-3 (LAV-25),120,1998,120,,2000
+Switzerland,Canada,Piranha-3 (LAV-25),120,1999,120,,2001
+Switzerland,Canada,Piranha-3 (LAV-25),171,1999,80,,2002
+Sweden,Denmark,CV-9035 Mk.3,45,2006,9,,2007
+Sweden,Denmark,CV-9035 Mk.4,115,2024,35,,2026
+Sweden,Netherlands,CV-9035 Mk.3 NL,184,2004,24,,2007
+Sweden,Netherlands,CV-9035 Mk.3 NL,122,2021,22,,2023
+Sweden,Norway,CV-9030N,104,1994,24,,1998
+Sweden,Norway,CV-9030N,144,2012,4,,2014
+Sweden,Norway,CV-9030N,20,2021,20,,2023
+Sweden,Slovakia,CV-9035 Mk.4,152,2022,38,,2024
+Sweden,Ukraine,CV-90,50,2023,50,,2023
+Belarus,Egypt,БТР-50ПК,100,2002,100,,2003
+Belarus,Egypt,БТР-50ПК,480,2010,160,,2012
+Belarus,Cote d'Ivoire,БТР-80,6,2002,6,,2003
+Belarus,Slovakia,БТР-70,37,2014,19,,2015
+Belarus,Sudan,БТР-70,10,2003,10,,2004
+Belarus,Sudan,БТР-70,2,2006,2,,2007
+Belarus,Sudan,БТР-70,2,2022,2,,2023
+Belarus,Sudan,БТР-80,7,2003,7,,2004
+Belgium,Bahrain,YPR-765,3,2007,3,,2008
+Belgium,Benin,M-113,22,2007,22,,2007
+Belgium,Jordan,M-113,10,2004,10,,2005
+Belgium,Jordan,M-113 ARV,18,2007,18,,2008
+Belgium,Jordan,M-113 ARV,6,2009,6,,2010
+Belgium,Lebanon,M-113A5,12,2008,12,,2009
+Belgium,Morocco,M-113,13,2008,13,,2010
+Belgium,Ukraine,M-113,90,2023,90,,2023
+Belgium,Uruguay,M-113,3,2007,3,,2008
+Belgium,Chile,VBCL,21,2008,21,,2009
+Bulgaria,Angola,БТР-70,29,2018,29,,2019
+Bulgaria,Angola,МТ-ЛБ,31,2013,8,,2014
+Bulgaria,Egypt,МТ-ЛБ,2,2013,2,,2014
+Bulgaria,Iraq,МТ-ЛБ,500,2012,1,,2013
+Bulgaria,Cambodia,БТР-60ПБ,40,2009,40,,2010
+Bulgaria,North Macedonia,МТ-ЛБ,10,2000,10,,2001
+Bulgaria,Malawi,БТР-60ПБ,20,2008,20,,2009
+Bulgaria,Mali,БТР-60ПБ,14,2006,14,,2008
+Bulgaria,Mali,БТР-60ПБ,10,2011,10,,2012
+Bulgaria,Mali,БТР-70,7,2011,7,,2012
+Bulgaria,Poland,МТ-ЛБ,45,2018,45,,2019
+Bulgaria,Poland,МТ-ЛБ,89,2021,3,,2021
+Bulgaria,Russia,МТ-ЛБ,61,2007,61,,2008
+Bulgaria,Romania,МТ-ЛБ,10,2022,10,,2023
+Bulgaria,Saudi Arabia,БТР-60ПБ,24,2016,15,,2016
+Bulgaria,Ukraine,БТР-60,100,2023,100,,2024
+Bulgaria,Eritrea,МТ-ЛБ,10,2003,10,,2005
+Brazil,Ghana,VBTP «Guarani»,11,2021,11,,2023
+Brazil,Lebanon,VBTP «Guarani»,15,2014,15,,2017
+Brazil,Suriname,EE-11 «Urutu»,2,2012,2,,2013
+Brazil,Uruguay,EE-11 «Urutu»,11,2022,11,,2022
+Brazil,Philippines,VBTP-MSR «Guarani»,28,2020,28,,2024
+Brazil,Chile,EE-11 «Urutu»,24,2002,24,,2002
+United Kingdom,Brazil,M-113A2,150,2011,2,,2013
+United Kingdom,Brazil,M-113A2,236,2015,59,,2017
+United Kingdom,Brazil,M-113A2,150,2021,75,,2022
+United Kingdom,Iraq,OT-64,4,2006,4,,2006
+United Kingdom,Mozambique,FV-430,40,2012,40,,2013
+United Kingdom,Oman,Piranha-2,80,2000,80,,2002
+United Kingdom,Sudan,Bv-206S,15,2003,15,,2004
+United Kingdom,Thailand,Black Widow Spider,0,2013,0,,2016
+United Kingdom,Ukraine,BvS-10 Mk.2,20,2023,20,,2024
+United Kingdom,Ukraine,FV-432 Mk.2 «Bulldog»,100,2023,100,,2023
+United Kingdom,Ukraine,M-113,46,2022,46,,2022
+Hungary,Poland,БТР-80,66,2005,66,,2005
+Hungary,Slovakia,БТР-80,3,2013,3,,2014
+Germany,Australia,Boxer CRV,211,2018,3,,2019
+Germany,Australia,M-113A1,350,2002,40,,2008
+Germany,Australia,M-113A1,81,2008,81,,2012
+Germany,Australia,M-113A1,20,2020,20,,2021
+Germany,Algeria,Boxer,0,2019,0,,2019
+Germany,Algeria,Tpz-2 «Fuchs»,56,2011,24,,2013
+Germany,Algeria,Tpz-2 «Fuchs»,980,2014,4,,2015
+Germany,United Kingdom,Boxer,0,2019,23,,2023
+Germany,Greece,M-577А1,0,2012,12,,2012
+Germany,Denmark,M-113A1,0,2001,35,,2003
+Germany,Denmark,M-113A1,0,2010,25,,2012
+Germany,Indonesia,M-113A1,0,2013,40,,2016
+Germany,Iraq,Tpz-1 «Fuchs»,0,2004,20,,2004
+Germany,Colombia,M-113A1,0,2011,0,,2012
+Germany,Kuwait,Tpz-1 «Fuchs»,0,2002,5,,2002
+Germany,Kuwait,Tpz-2 NBC-RS «Fuchs»,0,2015,12,,2017
+Germany,Lithuania,Boxer,0,2016,4,,2019
+Germany,Lithuania,M-113,0,2004,67,,2005
+Germany,Lithuania,M-113,0,2016,4,,2016
+Germany,Lithuania,M-113А1,0,2000,67,,2000
+Germany,Lithuania,M-113А1,0,2002,36,,2002
+Germany,Lithuania,M-113А1,0,2003,21,,2003
+Germany,North Macedonia,TM-170 «Hermelin»,0,1999,115,,2000
+Germany,Netherlands,Boxer,0,2006,40,,2014
+Germany,Netherlands,Tpz-1 «Fuchs»,0,2003,3,,2004
+Germany,Norway,PMMC G5,0,2018,0,,2020
+Germany,Norway,Tpz-1 «Fuchs»,0,2003,2,,2004
+Germany,Norway,Tpz-1 NBC «Fuchs»,0,2012,5,,2013
+Germany,UAE,Tpz-1 «Fuchs»,0,2000,64,,2000
+Germany,UAE,Tpz-2 «Fuchs»,0,2005,10,,2007
+Germany,Poland,M-113,0,2002,35,,2003
+Germany,Ukraine,Bv-206S,73,2023,73,,2023
+Germany,Chile,M-113A2,46,2007,24,,2009
+Denmark,Moldova,Piranha-3H,19,2022,19,,2023
+Denmark,Ukraine,M-113G3/G4DK,54,2022,54,,2022
+Egypt,Burkina Faso,FAHD-300,25,2023,25,,2024
+Egypt,Burundi,FAHD-300,9,2019,9,,2019
+Israel,Brazil,M-113A2,30,2008,7,,2013
+India,Philippines,"V-150/V-300
+«Commando»",0,2019,0,,2023
+Indonesia,Brunei,APS-3 «Panther Anoa»,15,2011,15,,2012
+Indonesia,Malaysia,APS-3 «Panther Anoa»,32,2012,32,,2012
+Indonesia,UN,APS-3 «Panther Anoa»,29,2017,29,,2018
+Jordan,Iraq,M-113A1,100,2004,100,,2004
+Jordan,Iraq,БТР-94,50,2004,50,,2004
+Jordan,Lebanon,M-113А2,30,2015,30,,2015
+Jordan,Libya,Al-Mared,0,2019,0,,2019
+Jordan,Pakistan,?,73,2014,73,,2015
+Ирландия,United Kingdom,CM-31,2,2000,2,,2001
+Ирландия,Singapore,CM-31,1,2000,1,,2001
+Spain,Colombia,M-113A2,26,2014,26,,2015
+Spain,Ukraine,M-113 TOA,20,2022,20,,2023
+Spain,Ukraine,M-113 TOA,40,2022,40,,2022
+Spain,Ecuador,BLR,15,2003,15,,2004
+Italy,Brazil,VBTP-MR «Guaranis»,2044,2009,2,,2012
+Italy,Indonesia,M-113A1,0,2016,5,,2017
+Italy,Pakistan,M-113/VCC-1/VCC-2,0,2012,500,,2013
+Italy,USA,SUPERAV (ACV),0,2015,16,,2018
+Italy,USA,SUPERAV (ACV),0,2018,30,,2020
+Italy,USA,SUPERAV (ACV),0,2019,26,,2021
+Italy,USA,SUPERAV (ACV),0,2020,36,,2022
+Italy,USA,SUPERAV (ACV),0,2021,33,,2024
+Italy,USA,SUPERAV (ACV),0,2021,36,,2023
+Italy,USA,SUPERAV (ACV),0,2022,14,,2024
+Italy,USA,SUPERAV (ACV),0,2022,30,,2024
+Italy,USA,SUPERAV (ACV),0,2022,36,,2024
+Italy,USA,SUPERAV (ACV),0,2023,25,,2025
+Italy,USA,SUPERAV (ACV),0,2023,40,,2026
+Italy,USA,SUPERAV (ACV),0,2024,40,,2027
+Italy,Ukraine,Bv-206S,0,2023,15,,2023
+Italy,Ukraine,M-113  VCC-2,0,2023,10,,2024
+Italy,Ukraine,Puma 6x6,0,2023,0,,2024
+Kazakhstan,Kyrgyzstan,БТР-80,0,2011,5,,2011
+Canada,United Kingdom,?,0,2007,4,,2008
+Canada,Indonesia,M-113A2,0,2006,160,,2006
+Canada,Nigeria,M-548A1,0,2009,4,,2010
+Canada,Nigeria,M-548A1,0,2011,13,,2012
+Canada,UN,?,0,2011,50,,2012
+Canada,Peru,Piranha-2 (LAV-2),0,2014,8,,2015
+Canada,Saudi Arabia,Piranha-2 (LAV II),0,2010,82,,2012
+Canada,Saudi Arabia,Piranha-2 (LAV II),73,2011,73,,2012
+Canada,Saudi Arabia,Piranha-3 (LAV-25),116,2007,47,,2007
+Canada,Sudan,Piranha,105,2004,105,,2005
+Canada,USA,Piranha-2  (LAV-2),33,2011,33,,2012
+Canada,USA,Piranha-2  (LAV-2),13,2013,13,,2014
+Canada,Ukraine,Piranha-2 ACSV (LAV 6.0),39,2022,39,,2022
+Canada,Ukraine,Piranha-2 ACSV (LAV 6.0),50,2023,10,,2024
+Canada,Uruguay,Piranha,44,2007,40,,2007
+Canada,Chile,M-548A1,24,2011,24,,2012
+Canada,Chile,M-548A1,12,2014,12,,2015
+Canada,Chile,M-578A1/A2,46,2009,46,,2010
+China,Angola,WZ-551,6,2015,6,,2016
+China,Argentina,WZ-551B1,4,2008,4,,2010
+China,Afghanistan,?,10,2017,10,,2017
+China,Burundi,?,15,2011,15,,2012
+China,Venezuela,ZBL-09 (VN1),60,2012,30,,2015
+China,Gabon,ZBL-09 (VN1),10,2018,5,,2019
+China,Ghana,WZ-523,58,2008,48,,2009
+China,Ghana,WZ-523,28,2012,28,,2013
+China,Guinea,WZ-551,2,2010,2,,2010
+China,Zambia,WZ-551,5,2006,5,,2007
+China,Zimbabwe,WZ-551,14,2022,14,,2023
+China,Kenya,WZ-551,32,2006,32,,2007
+China,Congo,?,2,2005,2,,2006
+China,Congo,?,4,2005,4,,2006
+China,Congo,?,6,2005,6,,2006
+China,Congo,?,9,2009,9,,2009
+China,Cote d'Ivoire,WZ-551,6,2020,6,,2021
+China,Laos,?,20,2022,20,,2023
+China,Mali,?,3,2017,3,,2017
+China,Mozambique,?,12,2014,12,,2014
+China,Mozambique,?,12,2016,12,,2016
+China,Mozambique,?,23,2017,23,,2018
+China,Namibia,WZ-501,21,2009,21,,2009
+China,Nepal,?,62,2017,58,,2016
+China,Niger,WZ-551,20,2015,20,,2017
+China,Nigeria,Type-89 (YW-534),60,2020,60,,2021
+China,Oman,WZ-551B,50,2003,50,,2003
+China,Peru,?,16,2009,16,,2010
+China,Rwanda,?,20,2007,20,,2008
+China,Sierra Leone,?,7,2016,7,,2016
+China,Tajikistan,Type-85 (YW-531H),20,2013,20,,2014
+China,Thailand,ZBL-09 (VN1),36,2017,36,,2020
+China,Thailand,ZBL-09 (VN1),41,2019,6,,2021
+China,Tanzania,?,12,2017,12,,2017
+China,Tanzania,WZ-551,2,2007,2,,2007
+China,Central African Republic,?,4,2021,4,,2021
+China,Chad,WZ-551,10,2006,10,,2007
+China,Equatorial Guinea,?,26,2017,26,,2018
+China,Ethiopia,WZ-551,6,2011,6,,2012
+Lithuania,Ukraine,M-113,62,2022,62,,2022
+Lithuania,Ukraine,M-113,14,2024,14,,2024
+North Macedonia,Bulgaria,?,2,2006,2,,2006
+Unknown,Ghana,БТР-70,20,2023,20,,2023
+Netherlands,Jordan,M-113,69,2010,23,,2011
+Netherlands,Ukraine,BvS-10,20,2023,20,,2023
+Netherlands,Ukraine,YPR-765,237,2022,196,,2022
+Netherlands,Estonia,XA-188,104,2010,15,,2010
+Norway,Ukraine,M-113,50,2023,50,,2024
+UAE,Iraq,M-3VTT «Panhard»,44,2004,44,,2004
+Pakistan,Iraq,Talha,44,2004,44,,2005
+Poland,Iraq,БТР-80УП,115,2005,101,,2006
+Poland,Lithuania,МТ-ЛБ,10,2000,10,,2000
+Poland,Nigeria,МТ-ЛБ,67,2002,67,,2002
+Poland,UAE,"XC-360P (AMV)
+«Rosomak»",40,2016,40,,2016
+Poland,Ukraine,МТ-ЛБ,60,2022,60,,2022
+Poland,Czech Republic,OT-64 «Skot»,10,2009,10,,2010
+Poland,Czech Republic,МТ-ЛБУ,5,2010,5,,2011
+Portugal,Ukraine,M-113,18,2022,18,,2022
+Portugal,Ukraine,M-113,17,2023,17,,2023
+Russia,Azerbaijan,БТР-80А,24,2007,4,,2007
+Russia,Azerbaijan,БТР-82А,101,2011,61,,2017
+Russia,Azerbaijan,Скорпион ЛША,2,2012,2,,2013
+Russia,Azerbaijan,Скорпион ЛША Б,2,2012,2,,2013
+Russia,Algeria,БТР-80,5,2006,5,,2008
+Russia,Algeria,БТР-80,15,2011,5,,2012
+Russia,Armenia,БТР-80,110,2012,110,,2013
+Russia,Bangladesh,БТР-80,78,1998,39,,2001
+Russia,Bangladesh,БТР-80А,60,2005,60,,2006
+Russia,Bangladesh,БТР-80А,60,2010,40,,2010
+Russia,Bangladesh,БТР-80А,80,2011,70,,2012
+Russia,Bangladesh,БТР-80А,63,2013,63,,2013
+Russia,Bangladesh,БТР-80А,340,2015,170,,2016
+Russia,Belarus,БТР-82А,32,2020,32,,2023
+Russia,Belarus,БТР-82А,76,2020,76,,2021
+Russia,Venezuela,БТР-80А/К,114,2010,31,,2011
+Russia,Djibouti,БТР-80,8,2001,8,,2002
+Russia,Zambia,БТР-80,22,2018,22,,2019
+Russia,Indonesia,БТР-80А,12,2001,12,,2002
+Russia,Yemen,БТР-80А,94,2009,94,,2010
+Russia,Kazakhstan,БТР-80А,62,2004,2,,2004
+Russia,Kazakhstan,БТР-80А,26,2007,23,,2007
+Russia,Kazakhstan,БТР-82А,80,2010,8,,2011
+Russia,Kenya,БРДМ-3,88,2011,88,,2012
+Russia,Cyprus,?,4,2011,4,,2012
+Russia,Kyrgyzstan,БТР-70М,60,2015,12,,2015
+Russia,North Korea,БТР-80А,32,2000,10,,2000
+Russia,Colombia,БТР-80,1,2005,1,,2006
+Russia,Mauritania,?,0,2014,0,,2015
+Russia,Mongolia,БТР-70М,40,2009,40,,2011
+Russia,Mongolia,БТР-70М,0,2015,0,,2015
+Russia,Mongolia,БТР-80А,20,2009,20,,2011
+Russia,Nicaragua,БТР-70М,0,2014,0,,2014
+Russia,Palestine,БТР-70,50,2008,50,,2010
+Russia,Syria,БТР-70М,3,2017,3,,2018
+Russia,Sudan,БТР-80А,30,2000,22,,2001
+Russia,Sudan,БТР-80А,60,2005,15,,2009
+Russia,Tajikistan,БТР-70/80,0,2017,0,,2017
+Russia,Tajikistan,БТР-70М,26,2016,26,,2016
+Russia,Turkmenistan,БМП-3,8,2008,8,,2009
+Russia,Uganda,БТР-80А,14,2005,14,,2005
+Russia,Uganda,БТР-80А,32,2010,32,,2011
+Russia,Uzbekistan,БТР-80А,23,2001,23,,2001
+Russia,Uzbekistan,БТР-82А,30,2019,30,,2020
+Russia,Sri Lanka,БТР-80А,19,2000,19,,2001
+Romania,Bangladesh,RN-94,9,2004,9,,2005
+Serbia,Pakistan,Lazar-2,3,2013,3,,2014
+Serbia,Pakistan,Lazar-2,20,2014,10,,2014
+Serbia,Saudi Arabia,?,50,2016,50,,2017
+Serbia,Turkmenistan,Lazar-3,24,2020,24,,2021
+Singapore,Brazil,EE-11 Mk.2 «Urutu»,17,2014,17,,2016
+Singapore,United Kingdom,Bronco,126,2008,81,,2010
+Slovakia,Bulgaria,БТР-70,44,2016,4,,2015
+Slovakia,USA,БТР-80,3,2013,3,,2014
+Slovakia,Central African Republic,OT-90,2,2007,2,,2008
+Slovakia,Czech Republic,BpsV (ПРП-4),4,2008,4,,2009
+Slovakia,Czech Republic,OT-64А «Skot»,26,2016,16,,2017
+Slovakia,Czech Republic,OT-90,67,2007,50,,2008
+Slovakia,Czech Republic,OT-90,13,2010,13,,2011
+Slovakia,Czech Republic,OT-90,12,2015,12,,2015
+Slovenia,Ukraine,Pandur 6x6,20,2023,20,,2023
+USA,Argentina,M-113А2,88,1999,68,,1999
+USA,Afghanistan,M-113A2,173,2005,173,,2005
+USA,Bahrain,M-113A2,19,2000,19,,2001
+USA,Bahrain,M-113A2,90,2005,90,,2005
+USA,Bahrain,M-113A2,200,2009,100,,2010
+USA,Bahrain,M-113A2,120,2016,100,,2017
+USA,Bulgaria,M-1126 «Stryker»,183,2023,33,,2025
+USA,Brazil,AAV-7A1,23,2014,23,,2018
+USA,Brazil,M-113A2,50,2015,50,,2016
+USA,Brazil,M-113A2,60,2020,30,,2020
+USA,Greece,M-113A2,460,2014,414,,2014
+USA,Greece,M-113А2,128,2005,128,,2005
+USA,Greece,M-577А2,45,1998,6,,1998
+USA,Egypt,M-113,1,2000,1,,2001
+USA,Egypt,M-113A2,55,2005,55,,2005
+USA,Egypt,M-557A2,14,2000,14,,2003
+USA,Egypt,M-557A2,30,2000,30,,2004
+USA,Egypt,M-981,7,2005,7,,2005
+USA,Israel,M-113,255,2013,255,,2014
+USA,Israel,M-113A2,50,2004,25,,2005
+USA,Jordan,M-113,200,2013,200,,2014
+USA,Jordan,M-113A1,600,2004,132,,2005
+USA,Jordan,M-113A1,1000,2006,200,,2009
+USA,Jordan,M-113A2,42,2003,42,,2004
+USA,Jordan,M-113А1,150,2017,23,,2018
+USA,Jordan,M-577A2,5,2003,5,,2004
+USA,Iraq,M-113A2,50,2006,48,,2007
+USA,Iraq,M-113A2,440,2010,440,,2013
+USA,Iraq,M-113A2,588,2010,109,,2011
+USA,Iraq,Piranha-3 (LAV-25),19,2006,19,,2006
+USA,Iraq,Piranha-3 (M-1135),50,2013,50,,2016
+USA,Spain,Dragoon,2,1999,2,,2000
+USA,Italy,AAV-7A1,11,1999,11,,2001
+USA,Italy,AAV-7A1,25,1999,2,,2001
+USA,Yemen,M-113A2,32,2005,32,,2006
+USA,Canada,M-113,341,1997,67,,2001
+USA,Kuwait,Desert Chameleon,29,2009,5,,2010
+USA,Lebanon,M-113А2,1,1999,1,,2000
+USA,Lebanon,M-113А2,200,2012,200,,2013
+USA,Morocco,M-113А2,200,2005,200,,2006
+USA,Morocco,M-113А2,112,2008,26,,2009
+USA,Morocco,M-113А2,86,2010,86,,2011
+USA,Morocco,M-113А2,91,2012,91,,2013
+USA,Morocco,M-113А3,469,2015,469,,2017
+USA,Morocco,M-113А3,181,2018,181,,2019
+USA,Norway,M-113,72,2007,36,,2008
+USA,Norway,M-113,25,2010,25,,2011
+USA,Pakistan,M-113A2,874,2013,374,,2014
+USA,Portugal,M-577А2,34,1995,10,,1996
+USA,Saudi Arabia,M-113А2,523,1997,130,,2003
+USA,Saudi Arabia,Piranha-3 (LAV-25),32,2005,32,,2006
+USA,Saudi Arabia,Piranha-3 (LAV-25),41,2013,41,,2014
+USA,Thailand,M-1126 «Stryker»,60,2019,10,,2019
+USA,Thailand,M-1126 «Stryker»,106,2020,38,,2022
+USA,Thailand,M-113А2,30,1997,24,,1998
+USA,Taiwan,AAV-7A1,36,2018,18,,2019
+USA,Taiwan,AAV-7A1 RAM/RS,54,2003,27,,2005
+USA,Tunisia,M-577A2,6,2003,6,,2004
+USA,Turkey,Dragoon LFV/1,140,1997,10,,1997
+USA,Ukraine,M-1126 «Stryker»,57,2023,57,,2023
+USA,Ukraine,M-1126 «Stryker»,90,2023,90,,2023
+USA,Ukraine,M-113A3,200,2022,200,,2022
+USA,Ukraine,M-113A3,400,2023,400,,2023
+USA,Philippines,M-113,114,2013,114,,2015
+USA,Chile,M-113А2,158,1999,0,,2003
+USA,South Korea,AAV-7A1,67,2000,0,,2002
+USA,South Korea,AAV-7A1,75,2006,0,,2006
+USA,South Korea,AAV-7А1,57,1995,0,,1997
+USA,Japan,AAV-7,4,2012,0,,2014
+USA,Japan,AAV-7A1 RAM/RS,32,2016,0,,2017
+Belgium,Brazil,Leopard-1А1,87,1995,28,1997.0,0
+Belgium,Brazil,Leopard-1А1,87,1995,27,1998.0,0
+Belgium,Brazil,Leopard-1А1,87,1995,30,1999.0,0
+Belgium,Brazil,Leopard-1А1,87,1995,2,2001.0,80
+Germany,Austria,Leopard-2A4,58,2023,18,2026.0,255
+Germany,Austria,Leopard-2A4,58,2023,20,2027.0,0
+Germany,Austria,Leopard-2A4,58,2023,20,2028.0,0
+Belarus,Iran,Т-72М1,37,2000,8,2000.0,0
+Belarus,Iran,Т-72М1,37,2000,20,2001.0,0
+Belarus,Iran,Т-72М1,37,2000,9,2002.0,74
+United Kingdom,Jordan,Challenger-1,402,1999,90,2000.0,0
+United Kingdom,Jordan,Challenger-1,402,1999,240,2001.0,0
+United Kingdom,Jordan,Challenger-1,402,1999,72,2002.0,88
+Germany,Brazil,Leopard-1A5BR,250,1996,60,1997.0,0
+Germany,Brazil,Leopard-1A5BR,250,1996,75,1998.0,0
+Germany,Brazil,Leopard-1A5BR,250,1996,115,1999.0,110
+Germany,United Kingdom,Leopard-2,18,2023,6,2023.0,0
+Germany,United Kingdom,Leopard-2,18,2023,6,2024.0,0
+Germany,United Kingdom,Leopard-2,18,2023,6,2025.0,45
+Germany,Hungary,Leopard-2A4,12,2018,4,2020.0,0
+Germany,Hungary,Leopard-2A4,12,2018,4,2021.0,0
+Germany,Hungary,Leopard-2A4,12,2018,4,2022.0,15
+Germany,Greece,Leopard-1А5,500,1998,100,1998.0,0
+Germany,Greece,Leopard-1А5,500,1998,250,1999.0,0
+Germany,Greece,Leopard-1А5,500,1998,150,2000.0,165
+Germany,Greece,Leopard-2А6 HEL,170,2002,60,2007.0,0
+Germany,Greece,Leopard-2А6 HEL,170,2002,70,2008.0,0
+Germany,Greece,Leopard-2А6 HEL,170,2002,40,2009.0,1900
+Germany,Denmark,Leopard-2A5DK,82,2000,40,2001.0,0
+Germany,Denmark,Leopard-2A5DK,82,2000,42,2002.0,44
+Germany,Indonesia,Leopard-2A4,61,2013,30,2016.0,0
+Germany,Indonesia,Leopard-2A4,61,2013,31,2017.0,220
+Germany,Spain,Leopard-2A5E,108,1998,22,2003.0,0
+Germany,Spain,Leopard-2A5E,108,1998,86,2004.0,1415
+Germany,Canada,Leopard-1,127,1977,127,1978.0,100
+Germany,Canada,Leopard-2A4,20,2007,20,2007.0,78
+Germany,Qatar,Leopard-2A7+,62,2013,24,2015.0,0
+Germany,Qatar,Leopard-2A7+,62,2013,38,2016.0,2200
+Germany,Poland,Leopard-2А4,128,2002,48,2002.0,0
+Germany,Poland,Leopard-2А4,128,2002,80,2003.0,125
+Germany,Singapore,Leopard-2A4,66,2007,21,2008.0,0
+Germany,Singapore,Leopard-2A4,66,2007,45,2009.0,92
+Germany,Turkey,Leopard-2А4,298,2005,160,2006.0,0
+Germany,Turkey,Leopard-2А4,298,2005,138,2007.0,170
+Germany,Czech Republic,Leopard-2A4,14,2022,14,2023.0,0
+Germany,Sweden,Leopard-2А5S,88,1999,40,2001.0,0
+Germany,Sweden,Leopard-2А5S,88,1999,48,2002.0,150
+Israel,Argentina,TAM 2C,28,2015,14,2017.0,0
+Israel,Argentina,TAM 2C,28,2015,14,2018.0,30
+Israel,Georgia,Т-72,31,2005,31,2006.0,40
+Israel,Turkey,Sabra Mk2,170,2002,85,2006.0,0
+Israel,Turkey,Sabra Mk2,170,2002,85,2007.0,700
+Israel,Philippines,Sabrah Light Tank,18,2021,9,2023.0,0
+Israel,Philippines,Sabrah Light Tank,18,2021,9,2024.0,172
+Israel,Czech Republic,Т-72М1,30,2019,30,2020.0,28
+China,Bangladesh,MBT-2000,44,2011,44,2012.0,162
+China,Pakistan,MBT-2000 (Type-90-II),200,2006,100,2007.0,0
+China,Pakistan,MBT-2000 (Type-90-II),200,2006,100,2008.0,390
+China,Pakistan,MBT-3000 (VT4),176,2020,88,2022.0,0
+China,Pakistan,MBT-3000 (VT4),176,2020,88,2023.0,566
+China,Pakistan,Type-59,400,1980,200,1981.0,0
+China,Pakistan,Type-59,400,1980,200,1982.0,250
+China,Pakistan,Type-85IIАР,48,1993,48,1994.0,80
+Netherlands,Norway,Leopard-1,30,1999,30,2000.0,40
+Netherlands,Finland,Leopard-2A6,100,2014,50,2015.0,0
+Netherlands,Finland,Leopard-2A6,100,2014,50,2016.0,200
+Netherlands,Chile,Leopard-1А5,132,1999,66,2000.0,0
+Netherlands,Chile,Leopard-1А5,132,1999,66,2001.0,115
+Poland,Malaysia,PT-91M,48,2003,20,2006.0,0
+Poland,Malaysia,PT-91M,48,2003,28,2007.0,370
+Poland,Czech Republic,Т-72,30,2022,30,2023.0,50
+Russia,Azerbaijan,Т-90С,100,2011,50,2012.0,0
+Russia,Azerbaijan,Т-90С,100,2011,50,2013.0,500
+Russia,Algeria,Т-72С,400,1999,200,2000.0,0
+Russia,Algeria,Т-72С,400,1999,200,2001.0,125
+Russia,Algeria,Т-90С,185,2006,90,2008.0,0
+Russia,Algeria,Т-90С,185,2006,95,2009.0,1000
+Russia,Armenia,Т-72,30,2016,30,2017.0,35
+Russia,Venezuela,Т-72Б1В,92,2009,50,2011.0,0
+Russia,Venezuela,Т-72Б1В,92,2009,42,2012.0,470
+Russia,India,Т-72М1,1240,1982,1240,1984.0,850
+Russia,India,Т-90МС,464,2019,232,2021.0,0
+Russia,India,Т-90МС,464,2019,232,2022.0,2850
+Russia,India,Т-90С,310,2001,155,2003.0,0
+Russia,India,Т-90С,310,2001,155,2004.0,800
+Russia,India,Т-90С,536,2006,268,2008.0,0
+Russia,India,Т-90С,536,2006,268,2009.0,1100
+Russia,India,Т-90С,347,2011,174,2012.0,0
+Russia,India,Т-90С,347,2011,173,2013.0,1750
+Russia,Cyprus,Т-80У/УК,41,2009,41,2010.0,156
+Russia,Mongolia,Т-72А,100,1996,50,1997.0,0
+Russia,Mongolia,Т-72А,100,1996,50,1998.0,42
+Russia,Serbia,Т-72,30,2019,30,2020.0,40
+Russia,Syria,Т-72,1000,1982,500,1983.0,0
+Russia,Syria,Т-72,1000,1982,500,1984.0,800
+Serbia,Cambodia,Т-55A,20,2010,20,2011.0,11
+Serbia,Kuwait,Т-72 (M-84),170,1989,170,1990.0,450
+Serbia,Pakistan,Т-55,50,1998,50,1999.0,25
+Serbia,Slovakia,Т-55,35,1997,35,1998.0,15
+Slovakia,Angola,Т-55,40,1996,40,1997.0,20
+USA,Australia,M-1A1 AIM «Abrams»,59,2006,59,2007.0,475
+USA,Egypt,M-1A1 «Abrams»,250,2006,125,2008.0,0
+USA,Egypt,M-1A1 «Abrams»,250,2006,125,2011.0,1150
+USA,Iraq,M-1A1M «Abrams»,140,2008,70,2010.0,0
+USA,Iraq,M-1A1M «Abrams»,140,2008,70,2011.0,1200
+USA,Morocco,M-1A1 SA «Abrams»,384,2012,192,2016.0,0
+USA,Morocco,M-1A1 SA «Abrams»,384,2012,192,2017.0,1750
+USA,Poland,M-1A1 FEP «Abrams»,116,2022,116,2023.0,1250
+USA,Poland,M-1A2 SEPv3 «Abrams»,250,2022,125,2024.0,0
+USA,Poland,M-1A2 SEPv3 «Abrams»,250,2022,125,2025.0,1450
+USA,Romania,M-1A2 SEPv3 «Abrams»,54,2024,54,2025.0,700
+USA,Saudi Arabia,M-1A1 «Abrams»,315,2006,315,2008.0,2900
+USA,Saudi Arabia,M-1A1/A2 «Abrams»,153,2017,153,2019.0,1800
+USA,Taiwan,M-1A2X «Abrams»,108,2019,54,2024.0,0
+USA,Taiwan,M-1A2X «Abrams»,108,2019,54,2025.0,1900
+USA,Taiwan,M-60A3 «Patton-2»,300,1996,300,1997.0,250
+USA,Taiwan,M-60A3 «Patton-2»,460,2023,230,2024.0,0
+USA,Taiwan,M-60A3 «Patton-2»,460,2023,230,2025.0,600
+Turkey,Indonesia,Kaplan MP,18,2021,9,2023.0,0
+Turkey,Indonesia,Kaplan MP,18,2021,9,2024.0,135
+Turkey,Chile,Leopard-2A4,150,2007,150,2008.0,140
+Ukraine,Azerbaijan,Т-72М1,48,2005,48,2006.0,60
+Ukraine,Algeria,Т-72М1,67,1999,67,2000.0,80
+Ukraine,Kenya,Т-72,110,2007,77,2009.0,0
+Ukraine,Kenya,Т-72,110,2007,33,2010.0,115
+Ukraine,Pakistan,Т-80УД,320,1996,160,1997.0,0
+Ukraine,Pakistan,Т-80УД,320,1996,160,1998.0,650
+Ukraine,Sudan,Т-55М,40,2003,40,2004.0,25
+Ukraine,Sudan,Т-72М1,130,2010,65,2011.0,0
+Ukraine,Sudan,Т-72М1,130,2010,65,2012.0,120
+Ukraine,Thailand,Т-84 «Оплот-Т»,49,2011,25,2016.0,0
+Ukraine,Thailand,Т-84 «Оплот-Т»,49,2011,24,2017.0,240
+Ukraine,Ethiopia,Т-72Б1,50,2012,50,2013.0,35
+France,UAE,Leclerc,388,1993,194,1995.0,0
+France,UAE,Leclerc,388,1993,194,1996.0,3500
+Czech Republic,Iraq,Т-72М1,100,2005,100,2006.0,150
+Czech Republic,Yemen,Т-55АМ2,20,1999,20,2000.0,18
+Czech Republic,Uganda,Т-72,31,2002,31,2003.0,22
+Czech Republic,Sri Lanka,Т-55АМ2,30,2000,30,2001.0,25
+Sweden,Germany,Leopard-2A4,142,2001,71,2002.0,0
+Sweden,Germany,Leopard-2A4,142,2001,71,2003.0,200
+South Korea,Poland,K-2 «Black Panther»,180,2022,90,2023.0,0
+South Korea,Poland,K-2 «Black Panther»,180,2022,90,2024.0,2700
+South Korea,Turkey,K-2 «Black Panther»,2,2011,2,2012.0,25
